@@ -42,11 +42,11 @@ const Navbar = () => {
                         
         <h1 className='w-full text-4xl font-bold text-[#00df9a] m-4 mt-7'>Deepak</h1>
         <ul className='uppercase p-4 '>
-          <li className='p-4'><Link to="/">Home</Link></li>
-          <li className='p-4'><Link to="/education">Education</Link></li>
-          <li className='p-4'><Link to="/experience">Experience</Link></li>
-          <li className='p-4'><Link to="/projects">Projects</Link></li>
-          <li className='p-4'><Link to="/contact">Contact Me</Link></li>
+          <li className='p-4 border-b border-b-grey-900'><Link to="/">Home</Link></li>
+          <li className='p-4 border-b border-b-grey-900'><Link to="/education">Education</Link></li>
+          <li className='p-4 border-b border-b-grey-900'><Link to="/experience">Experience</Link></li>
+          <li className='p-4 border-b border-b-grey-900'><Link to="/projects">Projects</Link></li>
+          <li className='p-4 border-b border-b-grey-900'><Link to="/contact">Contact Me</Link></li>
         </ul>
       </div>
 
