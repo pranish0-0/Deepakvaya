@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Deepakvaya/static/css/main.aea8d582.css",
-    "main.js": "/Deepakvaya/static/js/main.d17b6306.js",
+    "main.css": "/Deepakvaya/static/css/main.43e6044a.css",
+    "main.js": "/Deepakvaya/static/js/main.c5d9ce7a.js",
     "static/media/pec.jpg": "/Deepakvaya/static/media/pec.bd59edc759b683903219.jpg",
     "static/media/hero2.jpg": "/Deepakvaya/static/media/hero2.e25112f41f6e6a5aee16.jpg",
     "static/media/hero.jpg": "/Deepakvaya/static/media/hero.0674311f55d69c3c192b.jpg",
@@ -9,11 +9,11 @@
     "static/media/exp.png": "/Deepakvaya/static/media/exp.9694f13d2b3fa7608a40.png",
     "static/media/edu.png": "/Deepakvaya/static/media/edu.185b20005daf2e064a38.png",
     "index.html": "/Deepakvaya/index.html",
-    "main.aea8d582.css.map": "/Deepakvaya/static/css/main.aea8d582.css.map",
-    "main.d17b6306.js.map": "/Deepakvaya/static/js/main.d17b6306.js.map"
+    "main.43e6044a.css.map": "/Deepakvaya/static/css/main.43e6044a.css.map",
+    "main.c5d9ce7a.js.map": "/Deepakvaya/static/js/main.c5d9ce7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea8d582.css",
-    "static/js/main.d17b6306.js"
+    "static/css/main.43e6044a.css",
+    "static/js/main.c5d9ce7a.js"
   ]
 }
