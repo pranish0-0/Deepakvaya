@@ -33,9 +33,9 @@ const Education = () => {
 
             <div className='max-w-[1580px] grid md:grid-cols-3 text-gray-500'>
                 <img className='rounded-bl-[100%] rounded-br-[100%] rounded-tl-[100%] rounded-tr-[100%] md:w-[300px] max-md:w-[40%] mx-auto my-4 max-md:justify-end' src={pec} alt="pec" />
-                <div className='flex flex-col border-solid md:w-[200%] max-md:w-[103%]  border border-1 rounded-[5px] border-gray' id='shadow'>
+                <div className='flex flex-col border-solid md:w-[200%] max-md:w-[103%]  border border-1 rounded-[5px] border-gray p-1' id='shadow'>
                     <div className='border border-[#0e6ba8] bg-blue-100 '>
-                        <p className='text-[#00df9a] pb-12 font-bold text-left md:text-6xl sm:5xl text-5xl '>
+                        <p className='text-[#00df9a] pb-12 font-bold text-left md:text-6xl max-sm:text-[40px] text-5xl '>
                             Pokhara Engineering College
                         </p>
                         <div className='flex flex-row justify-between'>
