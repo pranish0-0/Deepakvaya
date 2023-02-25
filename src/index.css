@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #000300;
+}
+#shadow{
+    box-shadow: 10px 10px 5px rgb(160, 175, 180);
+}
+
+:root{
+    --speed:500ms;
+}
