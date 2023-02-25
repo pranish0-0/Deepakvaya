@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Deepakvaya/static/css/main.942b7326.css",
+    "main.js": "/Deepakvaya/static/js/main.7f72d07a.js",
+    "static/media/pec.jpg": "/Deepakvaya/static/media/pec.bd59edc759b683903219.jpg",
+    "static/media/hero2.jpg": "/Deepakvaya/static/media/hero2.e25112f41f6e6a5aee16.jpg",
+    "static/media/hero.jpg": "/Deepakvaya/static/media/hero.0674311f55d69c3c192b.jpg",
+    "static/media/eng.png": "/Deepakvaya/static/media/eng.6f42dfa5de7ef7e72f64.png",
+    "static/media/exp.png": "/Deepakvaya/static/media/exp.9694f13d2b3fa7608a40.png",
+    "static/media/edu.png": "/Deepakvaya/static/media/edu.185b20005daf2e064a38.png",
+    "index.html": "/Deepakvaya/index.html",
+    "main.942b7326.css.map": "/Deepakvaya/static/css/main.942b7326.css.map",
+    "main.7f72d07a.js.map": "/Deepakvaya/static/js/main.7f72d07a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942b7326.css",
+    "static/js/main.7f72d07a.js"
+  ]
+}
